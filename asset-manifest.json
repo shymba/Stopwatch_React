@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Stopwatch_React/static/css/main.889fb7ec.chunk.css",
+    "main.js": "/Stopwatch_React/static/js/main.48667167.chunk.js",
+    "main.js.map": "/Stopwatch_React/static/js/main.48667167.chunk.js.map",
+    "runtime-main.js": "/Stopwatch_React/static/js/runtime-main.b2e0aefe.js",
+    "runtime-main.js.map": "/Stopwatch_React/static/js/runtime-main.b2e0aefe.js.map",
+    "static/js/2.baa511dd.chunk.js": "/Stopwatch_React/static/js/2.baa511dd.chunk.js",
+    "static/js/2.baa511dd.chunk.js.map": "/Stopwatch_React/static/js/2.baa511dd.chunk.js.map",
+    "index.html": "/Stopwatch_React/index.html",
+    "static/css/main.889fb7ec.chunk.css.map": "/Stopwatch_React/static/css/main.889fb7ec.chunk.css.map",
+    "static/js/2.baa511dd.chunk.js.LICENSE.txt": "/Stopwatch_React/static/js/2.baa511dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2e0aefe.js",
+    "static/js/2.baa511dd.chunk.js",
+    "static/css/main.889fb7ec.chunk.css",
+    "static/js/main.48667167.chunk.js"
+  ]
+}
